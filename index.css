@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css?family=Cairo');
+
+.doctype {
+    position:fixed;
+    color: black;
+    right:10px;
+    top:10px;
+    font-family: 'Cairo', lighter;
+}
+
+.st-fin {
+    color: black;
+    left:500px;
+    top: 600px;
+    font-family: 'Cairo', lighter;
+}
+.hello-txt > p{
+    font-family: 'Cairo';
+    font-weight: 100;
+}
+.p1 {
+    position: absolute;
+    left:110px;
+    top: 120px;
+    font-size:35pt;
+    
+}
+.p2 {
+    position: absolute;
+    color: black;
+    left:70px;
+    top: 190px;
+    font-size:25pt;
+    
+}
+.p3 {
+    position: absolute;
+    color: black;
+    left: 60px;
+    top: 240px;
+    font-size:20pt;
+}    
+.p4 {
+    position: absolute;
+    color: black;
+    left:80px;
+    top: 285px;
+    font-size:15pt;
+}    
+.p5 {
+    position: absolute;
+    color: black;
+    left:100px;
+    top: 300px;
+    font-size:25pt;
+}    
+.image {
+    position: relative;
+    left: 330px;
+    width: 747px;
+    height: 424px;
+}
+.be-me {
+    
+}
+
+.aside {
+    position: relative;
+}
+
+.form {
+    color: Gainsboro;
+    height: 210px;
+    width: 230px;
+}
